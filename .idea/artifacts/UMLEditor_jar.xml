@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+    <artifact type="jar" name="UMLEditor:jar">
+        <output-path>$PROJECT_DIR$/out/artifacts/UMLEditor_jar</output-path>
+        <root id="archive" name="UMLEditor_jar.jar">
+            <element id="module-output" name="UMLEditor" />
+        </root>
+    </artifact>
+</component>
