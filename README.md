@@ -10,12 +10,13 @@ The UML-editor was created back in 2018 and was developed in IntelliJ IDEA Commu
 ## Functionality
 The editor has actually got some advanced features. 
 
-- It is possible to work in multiple tabs on separate diagrams. 
-- It is also possible to copy paste between the tabs. 
+- Work in multiple tabs on separate diagrams. 
+- Copy paste between the tabs. 
 - Custom undo / redo functionality using stacks to push / pop undoable items from. 
 - Serialize and save the diagram to a file. It re-attaches all the listeners when the file is opened again.
 - The lines are drawn using three type of modes, direct-, semi-, and bent mode. The bent mode will find a way between two points and adapt when the boxes are moved.
 - Drag to select objects.
+- Zooming and panning.
 - Resize objects.
 - Custom designed icons using Illustrator.
 
